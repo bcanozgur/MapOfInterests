@@ -1,0 +1,25 @@
+#map {
+    height: 600px;
+    margin-top: 2%;
+}
+#moreBtn {
+    width: 100%;
+    margin: 5px 0 0 0;
+}
+
+#button1{
+	width: 100%;
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #3498db;
+    border-color: #3498db;
+}
+
+#pano {
+    height: 600px;
+    width: 45%
+    margin-top: 2%;
+}
